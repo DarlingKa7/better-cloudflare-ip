@@ -91,7 +91,7 @@ sudo ./cf.sh
 安装termux，完整复制下方链接粘贴到termux并回车，后续运行只需输入./cf.sh并回车即可
 
 ``` bash
-curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/badafans/better-cloudflare-ip/master/shell/cf.sh -o cf.sh && chmod +x cf.sh && ./cf.sh
+curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/DarlingKa7/better-cloudflare-ip/master/shell/cf.sh -o cf.sh && chmod +x cf.sh && ./cf.sh
 ```
 
 ## OpenWrt版本
